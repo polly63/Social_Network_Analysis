@@ -1,5 +1,5 @@
 # Social_Network_Analysis
-A function called pagerank to calculate the PageRank of all nodes of a graph
+A function called pagerank to calculate the PageRank of all nodes of a graph                                                                
 Input:                                                                                                                                      
 G - Networkx Directed Graph Object                                                                                                          
 max_iter - Number of Iterations                                                                                                                                                                          
